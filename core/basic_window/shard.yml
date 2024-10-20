@@ -1,0 +1,19 @@
+name: basic_window
+version: 0.1.0
+
+authors:
+  - Evgenii M. <evgenii.example.com>
+
+crystal: '>= 1.14.0'
+
+dependencies:
+  raylib-cr:
+    github: sol-vin/raylib-cr
+    branch: master
+
+development_dependencies:
+  ameba:
+    github: crystal-ameba/ameba
+    branch: master
+
+license: MIT
